@@ -1,4 +1,4 @@
-Indicating the degree of profanity for each sentence
+Indicating the degree of profanity for each sentence in a tweet
 ==============================
 
 What Is This?
@@ -53,7 +53,7 @@ def degreeOfProfanity(sentence,racial_slurs):
     return degree
 ```
 
-Finally Lets call the function
+Finally lets call the function
 ------------------------------
 ```
 for tweet in tweets:
